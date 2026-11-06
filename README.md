@@ -77,3 +77,32 @@ This is a lab environment. Do not expose the pfSense management interface direct
 
 ## Skills demonstrated
 Virtualization, firewall deployment, WAN/LAN interface assignment, DHCP planning, ZFS installation, network troubleshooting, and technical documentation.
+
+
+## Installation Screenshots
+
+The following screenshots document the deployment and configuration of the pfSense virtual firewall.
+
+### 1. VirtualBox Configuration
+![VirtualBox VM Configuration](pfsense-firewall-lab/screenshots/01-virtualbox-config.png)
+
+### 2. WAN Network Configuration
+![WAN Configuration](pfsense-firewall-lab/screenshots/02-wan-mode.png)
+
+### 3. LAN Network Configuration
+![LAN Settings](pfsense-firewall-lab/screenshots/03-lan-settings.png)
+
+### 4. Interface Assignment
+![Interface Assignment](pfsense-firewall-lab/screenshots/04-interface-assignment.png)
+
+### 5. pfSense Version Selection
+![pfSense Version](pfsense-firewall-lab/screenshots/05-installer-version.png)
+
+### 6. Installation Progress
+![Installation Progress](pfsense-firewall-lab/screenshots/06-installation-progress.png)
+
+### 7. Installation Complete
+![Installation Complete](pfsense-firewall-lab/screenshots/07-installation-complete.png)
+
+### 8. Operational Firewall Console
+![pfSense Console](pfsense-firewall-lab/screenshots/08-firewall-console.png)
