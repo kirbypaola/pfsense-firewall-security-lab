@@ -105,3 +105,27 @@ The following screenshots document the deployment and configuration of the pfSen
 
 ### 8. Operational Firewall Console
 ![pfSense Console](pfsense-firewall-lab/screenshots/08-firewall-console.png)
+## Phase 2 — Firewall Rules and Traffic Validation
+
+The following screenshots document firewall rule configuration, ICMP traffic testing, and log validation.
+
+### 1. Default LAN Firewall Rules
+![Default LAN Rules](Phase-2-Firewall-Rules-and-Validation/screenshots/01-default-lan-rules.png)
+
+### 2. Firewall Rule Action and Protocol
+![Rule Action and Protocol](Phase-2-Firewall-Rules-and-Validation/screenshots/02-rule-action-protocol.png)
+
+### 3. Source, Destination, and Logging
+![Source Destination and Logging](Phase-2-Firewall-Rules-and-Validation/screenshots/03-rule-source-destination-logging.png)
+
+### 4. Firewall Rule Saved
+![Rule Saved](Phase-2-Firewall-Rules-and-Validation/screenshots/04-rule-saved-pending-apply.png)
+
+### 5. Blocked ICMP Traffic
+![Blocked Ping Test](Phase-2-Firewall-Rules-and-Validation/screenshots/05-blocked-ping-test.png)
+
+### 6. Firewall Block Logs
+![Firewall Logs](Phase-2-Firewall-Rules-and-Validation/screenshots/06-firewall-block-logs.png)
+
+### 7. Allowed ICMP Traffic
+![Allowed Ping Test](Phase-2-Firewall-Rules-and-Validation/screenshots/07-allowed-ping-test.png)
