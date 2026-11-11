@@ -1,0 +1,10 @@
+PHASE 2 UPLOAD GUIDE
+
+1. Extract this ZIP on Windows.
+2. Open your existing GitHub repository: https://github.com/kirbypaola/pfsense-firewall-security-lab
+3. Choose Add file > Upload files.
+4. Upload the entire Phase-2-Firewall-Rules-and-Validation folder if your browser supports folder drag-and-drop. Keep README.md and screenshots/ in that same folder.
+5. Review the file paths shown by GitHub before clicking Commit changes. They should begin with Phase-2-Firewall-Rules-and-Validation/.
+6. Commit changes and open Phase-2-Firewall-Rules-and-Validation/README.md to verify that all seven screenshots render.
+
+Do not replace the repository root README.md or delete Phase 1 files.
