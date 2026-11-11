@@ -1,7 +1,6 @@
 # pfSense Virtual Firewall & Network Security Lab
 
-**Status:** Phase 1 complete — installation and initial interface configuration. Traffic testing and firewall-rule validation are planned, not yet completed.
-
+**Status:** Phase 1 and Phase 2 complete — pfSense deployment, network configuration, firewall rule testing, ICMP traffic validation, and firewall log analysis.
 ## Objective
 Build an isolated virtual network for hands-on firewall administration, network segmentation, DHCP, and security-log analysis. This project documents the initial deployment of a pfSense Community Edition firewall in Oracle VirtualBox.
 
@@ -31,7 +30,7 @@ VirtualBox NAT
        |
  VirtualBox Internal Network: SOC-LAB
        |
- Linux client VM (planned; not yet created)
+Lubuntu SOC Client VM: 192.168.1.100/24 (deployed and tested)
 ```
 
 ## Deployment walkthrough
